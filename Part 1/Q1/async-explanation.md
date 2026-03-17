@@ -43,4 +43,3 @@ JavaScript chạy theo mô hình single-threaded với Event Loop. Có 3 hàng c
 - in "Timeout"
 
 ---
-```
