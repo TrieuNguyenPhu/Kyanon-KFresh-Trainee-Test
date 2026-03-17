@@ -1,3 +1,5 @@
+### Q1 – JavaScript & Async (Basic)
+
 ### Code:
 ```
 console.log("Start");
@@ -41,5 +43,3 @@ JavaScript chạy theo mô hình single-threaded với Event Loop. Có 3 hàng c
 - Chỉ chạy sau khi Microtask Queue đã trống hoàn toàn
 - `setTimeout(..., 0)` dù delay = 0ms vẫn phải chờ
 - in "Timeout"
-
----
