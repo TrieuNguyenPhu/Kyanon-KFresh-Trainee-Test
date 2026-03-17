@@ -1,6 +1,6 @@
-### Q1 – JavaScript & Async (Basic)
+# Q1 – JavaScript & Async (Basic)
 
-### Code:
+## Code:
 ```
 console.log("Start");
 
@@ -15,7 +15,7 @@ Promise.resolve().then(() => {
 console.log("End");
 ```
 
-### Output:
+## Output:
 ```
 Start
 End
@@ -25,7 +25,7 @@ Timeout
 
 ---
 
-### Tại sao lại theo thứ tự đó?
+## Tại sao lại theo thứ tự đó?
 
 JavaScript chạy theo mô hình single-threaded với Event Loop. Có 3 hàng chờ theo thứ tự:
 
